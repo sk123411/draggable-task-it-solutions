@@ -18,7 +18,7 @@ Make sure you have the following installed:
 # Flutter SDK
 A code editor such as VS Code or Android Studio
 
-#Installation
+# Installation
 Clone this repository:
 git clone https://github.com/your-username/draggable-dock-flutter.git
 
